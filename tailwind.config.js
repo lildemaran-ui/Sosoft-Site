@@ -4,9 +4,15 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx, jpeg}",
   ],
+ 
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
+
 

@@ -12,9 +12,9 @@ export default function Foother() {
             alt="Sosoft Logo"
             className="h-8 sm:h-12 object-contain"
           />
-          <p >Sosoft</p>
+          <p className="font-roboto" >Sosoft</p>
          </div>
-            <p className="text-white text-xs sm:text-sm mt-4 leading-relaxed cursor-default">
+            <p className="text-white font-roboto text-xs sm:text-sm mt-4 leading-relaxed cursor-default">
               Soluções inovadoras que facilitam e contribuem para o nosso
               cotidiano
             </p>
